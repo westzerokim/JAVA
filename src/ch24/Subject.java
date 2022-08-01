@@ -1,10 +1,9 @@
 package ch24;
 
 public class Subject {
-	
+
 	private String name;
 	private int scorePoint;
-	
 	public String getName() {
 		return name;
 	}
@@ -17,4 +16,6 @@ public class Subject {
 	public void setScorePoint(int scorePoint) {
 		this.scorePoint = scorePoint;
 	}
+	
+	
 }

@@ -10,7 +10,7 @@ public class StudentTest {
 		
 		
 		Student studentKim = new Student(101, "Kim");
-		studentKim.setKoreaSubject("국어", 80);
+		studentKim.setKoreaSubject("국어�", 80);
 		studentKim.setMathSubject("수학", 99);
 		
 		studentLee.showStudentSocre();
